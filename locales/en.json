@@ -86,7 +86,8 @@
 	"Активные ордера закрыты на паре": "Active orders were closed at the pair",
 	"Изменяет отступ первого ордера и профит в процентах, всех остальных в пунктах.": "Change first order indent and profit in percent, all the rest points.",
 	"Остальные": "The rest",
-	"Цена рынка": "market-price",
+	"Цена рынка": "Market price",
+	"Цена ордера": "Order price",
 	"Цена First ордера": "First order price",
 	"Список команд": "List of commands",
 	"Версия бота": "Bot version",
@@ -101,7 +102,6 @@
 	"Изменяет отступ ордеров по экспоненте в %": "Change orders indent by exponent in %",
 	"Отступ Exponential: Прошлый": "Indent Exponential: previous",
 	"Новый": "New",
-	"Бот на паре": "Bot at the pair",
 	"Время обновления авто настроек параметров (в мин)": "Auto-settings updating time of options (in minutes)",
 	"Отступ для ордеров в пунктах": "Indent for orders in points",
 	"Отступ для ордеров в процентах": "Indent for orders in percent",
@@ -184,7 +184,7 @@
 	"Новый %s": "New %s",
 	"Продано": "Sold",
 	"Нет подходящих вариантов": "Appropriate options were not found",
-	"Внимание! Конфиг для уведомлений не задан": "Attention! Configurations for notifications are not specified",
+	"Внимание! Пары для уведомлений не заданы": "Attention! Pairs for notifications are not specified",
 	"Ошибка получения данных с сервера": "Error in getting data from the server",
 	"Бот поставлен на паузу, после обновления баланса необходимо перезапустить пару": "Bot is paused, after the balance updating you need to restart the pair ",
 	"Ошибка": "Error",
@@ -206,5 +206,7 @@
 	"Процент скачка цены для остановки бота": "The percentage of the price spike for the bot stopping",
 	"Текущая стратегия": "Current Strategy",
 	"Новая стратегия": "New Strategy",
-	"При изменении стратегии бот будет перезагружен": "If you change the strategy, bot will be rebooted"
+	"При изменении стратегии бот будет перезагружен": "If you change the strategy, bot will be rebooted",
+	"Уровень StopLoss в процентах": "StopLoss percentage",
+	"Отображает информацию о StopLoss": "Displays StopLoss information"
 }
